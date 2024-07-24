@@ -1,4 +1,6 @@
 COMPUTE SERVICES 
+
+
 Amazon EC2
 Section 1: Introduction to Amazon EC2 
 1.	What is Amazon EC2?
