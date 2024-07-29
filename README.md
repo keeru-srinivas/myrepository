@@ -3,7 +3,7 @@ Compute Services on AWS: Documentation
 Introduction to AWS Compute Services
 AWS offers a range of compute services designed to meet diverse application needs, from traditional virtual servers to serverless computing options. This documentation provides an overview of key compute services available on AWS and how to effectively utilize them.
 
-AWS EC2 (Elastic Compute Cloud)
+1.AWS EC2 (Elastic Compute Cloud)
 Overview
 AWS EC2 provides resizable compute capacity in the cloud, allowing you to quickly scale compute resources based on demand.
 
@@ -14,7 +14,7 @@ Auto Scaling: Automatically adjust compute capacity based on traffic patterns or
 Documentation Links
 AWS EC2 Documentation
 
-AWS Lambda
+2. AWS Lambda
 Overview
 AWS Lambda enables serverless computing, allowing you to run code without provisioning or managing servers.
 
@@ -25,7 +25,7 @@ Pay-Per-Use: Pay only for the compute time consumed.
 Documentation Links
 AWS Lambda Documentation
 
-AWS ECS (Elastic Container Service)
+3. AWS ECS (Elastic Container Service)
 Overview
 AWS ECS is a fully managed container orchestration service for Docker containers.
 
@@ -36,7 +36,7 @@ Integration with AWS Fargate: Serverless compute engine for containers, no need 
 Documentation Links
 AWS ECS Documentation
 
-AWS Elastic Beanstalk
+4. AWS Elastic Beanstalk
 Overview
 AWS Elastic Beanstalk simplifies the deployment and management of applications in the cloud without worrying about infrastructure.
 
@@ -44,8 +44,7 @@ Key Features
 Platform as a Service (PaaS): Supports multiple programming languages and environments.
 Auto Scaling: Automatically scales application instances based on traffic.
 
-Documentation Links
-AWS Elastic Beanstalk Documentation
+
 Best Practices for AWS Compute Services
 Security
 IAM Roles: Manage permissions using AWS Identity and Access Management.
