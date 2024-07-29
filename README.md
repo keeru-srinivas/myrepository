@@ -3,7 +3,7 @@ Compute Services on AWS: Documentation
 Introduction to AWS Compute Services
 AWS offers a range of compute services designed to meet diverse application needs, from traditional virtual servers to serverless computing options. This documentation provides an overview of key compute services available on AWS and how to effectively utilize them.
 
-1.AWS EC2 (Elastic Compute Cloud)
+ 1. AWS EC2 (Elastic Compute Cloud)
 Overview
 AWS EC2 provides resizable compute capacity in the cloud, allowing you to quickly scale compute resources based on demand.
 
